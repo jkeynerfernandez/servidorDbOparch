@@ -7,8 +7,8 @@
       "email": "exampleUser@email.com",
       "password": "mySecurePassword",
       "profile_photo": "joseLuis21_image.jpg",
-      "about": "Le gusta los viajes a publitos, como la piedra del penol y las motocicletas",
-      "status": "desparchado",
+      "about": "Hello, my i hope you have a good day and like pets and cats",
+      "status": "Desparchadisimo",
       "post_counter": 3,
       "parche_counter": 7,
       "credibility": 9.7,
@@ -17,7 +17,7 @@
       "following": 120,
       "last_login": "21/04/2024",
       "account_created": "01/09/2020",
-      "birthday": "10/12/2001",
+      "birthday": "21/01/1990k",
       "badges": [
         "commentor",
         "traveler",
@@ -95,14 +95,40 @@
   ],
   "services": [
     {
-      "name": "parche en el parque de las luces",
+      "id": "e95b",
+      "creatorID": "df4d",
+      "name": "Salida Bogota, Colombia",
+      "description": "Salida a la base Maritima de rionegro, este mates 22 de enero",
+      "category": "New challenge for today",
       "location": "parque luces",
       "day": "21/04/2024",
       "hour": "1430",
-      "places": "1500/2000",
-      "repute": "9.7/10",
-      "price": "free",
-      "id": "e95b"
+      "people_enrolled": "1299",
+      "price": "free"
+    },
+    {
+      "id": "e321",
+      "creatorID": "df4d",
+      "name": "Salida Bogota, Colombia",
+      "description": "Salida a la base Maritima de rionegro, este mates 22 de enero",
+      "category": "New challenge for today",
+      "location": "parque luces",
+      "day": "21/04/2024",
+      "hour": "1430",
+      "people_enrolled": "1299",
+      "price": "free"
+    },
+    {
+      "id": "e311",
+      "creatorID": "256d",
+      "name": "Salida Bogota, Colombia",
+      "description": "Salida a la base Maritima de rionegro, este mates 22 de enero",
+      "category": "New challenge for today",
+      "location": "parque luces",
+      "day": "21/04/2024",
+      "hour": "1430",
+      "people_enrolled": "1299",
+      "price": "free"
     }
   ],
   "associates": [
